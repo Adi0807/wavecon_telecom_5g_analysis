@@ -1,0 +1,130 @@
+
+Wavecom Telecom: 5G Impact Analysis – Presentation Script
+Presented by: Aditya Kumar
+
+---
+
+Slide 1: Introduction
+
+HI everyone.  
+I'm Aditya Kumar, and I’m excited to present my project titled “5G Impact Analysis for Wavecom Telecom.”  
+This presentation is a part of the Codebasics Virtual Internship Program.  
+Before I begin, I’d like to sincerely thank Dhaval Patel, Hemanand Sir, and the entire Codebasics team for their invaluable guidance, feedback, and constant support throughout this journey.
+
+---
+
+
+
+Here’s what I’ll be covering today:
+1. A quick overview of key business metrics
+2. What changed after the 5G launch
+3. City and plan-level insights
+4. Practical recommendations to move forward
+5. Open floor for any suggestions or questions
+
+---
+
+
+
+To measure impact, I compared performance data from before 5G (Jan–Apr) and after 5G (Jun–Sep).
+
+- Average Revenue Per User (ARPU) improved by 11%, which is positive.
+- However, overall revenue dropped slightly,
+- Active users fell by over 7 million,
+- And unsubscribed users rose by 23%.
+
+This tells us that while the remaining users are spending more, many users are either not satisfied or find the service less valuable.
+
+---
+
+
+
+Let’s dive deeper into this:
+
+- Revenue dipped slightly, despite the 5G launch — this points to slower-than-expected adoption.
+- On the bright side, ARPU increased — especially in cities like Raipur, Ahmedabad, and Coimbatore — showing that the users who stayed are more engaged and likely using high-data plans.
+
+Our takeaway: Fewer users, but higher value — we need to keep these users happy and build from there.
+
+---
+
+
+
+Now on to user retention:
+
+- Active users dropped significantly in cities like Ahmedabad and Patna.
+- Churn — or users leaving the network — increased sharply in Chennai, Coimbatore, and Chandigarh.
+
+So while we are gaining more revenue per user, we are losing users faster than we’re gaining value — that’s not sustainable in the long term.
+
+---
+
+
+
+After the 5G rollout:
+
+- Wavecom’s market share fell from 19.5% to 17.8%,
+- While competitors, especially PIO, gained ground.
+
+This shift indicates that we’re not keeping up with competitors, possibly due to lack of differentiation or user experience issues.
+
+Suggested Focus Area for Stakeholders:  
+Rather than heavy technical fixes, this is a great time to discuss marketing repositioning, customer loyalty programs, and enhanced onboarding experiences — ideas that align with business goals and can be brainstormed together by cross-functional teams.
+
+---
+
+
+
+City-wise breakdown shows:
+
+- Mumbai still leads in revenue, but saw a drop in users.
+- Patna has the highest ARPU — a strong market for testing new premium plans.
+- Delhi had the highest user churn, indicating dissatisfaction that must be addressed.
+
+This city-level data helps us tailor strategies — we can’t apply a one-size-fits-all approach.
+
+---
+
+
+
+Some key findings:
+
+Top-Performing Plans:
+- Smart Recharge Pack and Ultra Fast Mega Pack did very well — thanks to longer validity and more data, ideal for 5G users.
+
+Struggling Plans:
+- Rs.99 Talktime Pack and Mini Saver Pack saw major drops — likely because they don’t align with 5G-era needs.
+
+Stakeholder takeaway: User behavior is evolving — the demand is shifting toward value-rich, data-heavy plans.
+
+---
+
+
+
+So, what did we learn?
+
+1. Revenue per user increased, but user loss and churn are real concerns.
+2. Wavecom lost market share to competitors — we need to act.
+3. City and plan-level insights show where to double down and where to rethink strategy.
+
+---
+
+
+
+Here are my suggestions, designed to be practical and actionable:
+
+- Reduce churn through loyalty rewards and simple auto-renewal offers
+- Improve network experience in high-churn cities through focused audits
+- Promote high-performing plans in cities like Patna and Raipur
+- Phase out outdated plans that no longer meet user expectations
+- Use personalization — smart suggestions based on user history
+- Run localized campaigns — such as referral bonuses, OTT bundles, and student packs
+- Reposition Wavecom’s brand as digital-first and user-centric
+
+---
+
+Thank you all for your attention.
+
+Once again, I want to express my gratitude to Dhaval Patel, Hemanand Sir, and the Codebasics team — this internship gave me real-world experience that went beyond theory.
+
+I now welcome any feedback, thoughts, or ideas you’d like to share — especially around customer engagement, marketing, or product offerings.
